@@ -1,0 +1,1 @@
+mysql> delete from Students;

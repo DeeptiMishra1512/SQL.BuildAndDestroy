@@ -1,0 +1,1 @@
+mysql> Truncate table Users;
